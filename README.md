@@ -81,7 +81,7 @@ python proxy_checker.py
 
 ## 📷 Ekran Görüntüsü
 
-![Proxy Checker Arayüzü](screenshot.png) 
+![Proxy Checker Arayüzü](Screenshot.png) 
 
 > Uygulamanın çalışır halini gösteren ekran görüntüsü.
 
